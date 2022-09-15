@@ -222,7 +222,7 @@ export default function Example() {
               <div className="relative px-4 py-16 sm:px-6 sm:py-24 lg:py-32 lg:px-8">
                 <h1 className="text-center text-4xl font-bold tracking-tight sm:text-5xl lg:text-6xl">
                   <span className="block text-white">Decentralized Ethereum</span>
-                  <span className="block text-sky-200">Not Every 'Crypto' Is Decentralized</span>
+                  <span className="block text-sky-200">Not Every &apos;Crypto&apos; Is Decentralized</span>
                 </h1>
                 <p className="mx-auto mt-6 max-w-lg text-center text-xl text-sky-200 sm:max-w-3xl">
                   64% of staked ETH controlled by five entities — Nansen, Decentralized Ethereum PoW is the 
